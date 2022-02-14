@@ -1,0 +1,7 @@
+E:\Derslerim\VB\CONSOL\Engin Hoca\DegerVeReferanlar\bin\Debug\DegerVeReferanlar.exe.config
+E:\Derslerim\VB\CONSOL\Engin Hoca\DegerVeReferanlar\bin\Debug\DegerVeReferanlar.exe
+E:\Derslerim\VB\CONSOL\Engin Hoca\DegerVeReferanlar\bin\Debug\DegerVeReferanlar.pdb
+E:\Derslerim\VB\CONSOL\Engin Hoca\DegerVeReferanlar\obj\Debug\DegerVeReferanlar.csproj.AssemblyReference.cache
+E:\Derslerim\VB\CONSOL\Engin Hoca\DegerVeReferanlar\obj\Debug\DegerVeReferanlar.csproj.CoreCompileInputs.cache
+E:\Derslerim\VB\CONSOL\Engin Hoca\DegerVeReferanlar\obj\Debug\DegerVeReferanlar.exe
+E:\Derslerim\VB\CONSOL\Engin Hoca\DegerVeReferanlar\obj\Debug\DegerVeReferanlar.pdb

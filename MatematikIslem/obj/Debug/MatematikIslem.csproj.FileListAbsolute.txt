@@ -1,0 +1,7 @@
+E:\Derslerim\VB\CONSOL\Engin Hoca\MatematikIslem\bin\Debug\MatematikIslem.exe.config
+E:\Derslerim\VB\CONSOL\Engin Hoca\MatematikIslem\bin\Debug\MatematikIslem.exe
+E:\Derslerim\VB\CONSOL\Engin Hoca\MatematikIslem\bin\Debug\MatematikIslem.pdb
+E:\Derslerim\VB\CONSOL\Engin Hoca\MatematikIslem\obj\Debug\MatematikIslem.csproj.AssemblyReference.cache
+E:\Derslerim\VB\CONSOL\Engin Hoca\MatematikIslem\obj\Debug\MatematikIslem.csproj.CoreCompileInputs.cache
+E:\Derslerim\VB\CONSOL\Engin Hoca\MatematikIslem\obj\Debug\MatematikIslem.exe
+E:\Derslerim\VB\CONSOL\Engin Hoca\MatematikIslem\obj\Debug\MatematikIslem.pdb

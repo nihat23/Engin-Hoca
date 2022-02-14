@@ -1,0 +1,7 @@
+E:\Derslerim\VB\CONSOL\Engin Hoca\OOP1\bin\Debug\OOP1.exe.config
+E:\Derslerim\VB\CONSOL\Engin Hoca\OOP1\bin\Debug\OOP1.exe
+E:\Derslerim\VB\CONSOL\Engin Hoca\OOP1\bin\Debug\OOP1.pdb
+E:\Derslerim\VB\CONSOL\Engin Hoca\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
+E:\Derslerim\VB\CONSOL\Engin Hoca\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+E:\Derslerim\VB\CONSOL\Engin Hoca\OOP1\obj\Debug\OOP1.exe
+E:\Derslerim\VB\CONSOL\Engin Hoca\OOP1\obj\Debug\OOP1.pdb

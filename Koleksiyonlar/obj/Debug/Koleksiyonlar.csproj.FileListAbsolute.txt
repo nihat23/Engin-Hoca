@@ -1,0 +1,7 @@
+E:\Derslerim\VB\CONSOL\Engin Hoca\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe.config
+E:\Derslerim\VB\CONSOL\Engin Hoca\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe
+E:\Derslerim\VB\CONSOL\Engin Hoca\Koleksiyonlar\bin\Debug\Koleksiyonlar.pdb
+E:\Derslerim\VB\CONSOL\Engin Hoca\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.CoreCompileInputs.cache
+E:\Derslerim\VB\CONSOL\Engin Hoca\Koleksiyonlar\obj\Debug\Koleksiyonlar.exe
+E:\Derslerim\VB\CONSOL\Engin Hoca\Koleksiyonlar\obj\Debug\Koleksiyonlar.pdb
+E:\Derslerim\VB\CONSOL\Engin Hoca\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.AssemblyReference.cache
