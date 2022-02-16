@@ -19,11 +19,8 @@ namespace GenericsIntro
             Console.WriteLine(isimler2.Count);
 
            // Console.WriteLine(isimler);
-
-
-
-
-            Console.ReadKey();
+           //
+          Console.ReadKey();
 
         }
     }

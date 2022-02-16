@@ -5,3 +5,10 @@ E:\Derslerim\VB\CONSOL\Engin Hoca\GenericsIntro\obj\Debug\GenericsIntro.csproj.A
 E:\Derslerim\VB\CONSOL\Engin Hoca\GenericsIntro\obj\Debug\GenericsIntro.csproj.CoreCompileInputs.cache
 E:\Derslerim\VB\CONSOL\Engin Hoca\GenericsIntro\obj\Debug\GenericsIntro.exe
 E:\Derslerim\VB\CONSOL\Engin Hoca\GenericsIntro\obj\Debug\GenericsIntro.pdb
+G:\Derslerim\VB\CONSOL\Engin Hoca\GenericsIntro\bin\Debug\GenericsIntro.exe.config
+G:\Derslerim\VB\CONSOL\Engin Hoca\GenericsIntro\bin\Debug\GenericsIntro.exe
+G:\Derslerim\VB\CONSOL\Engin Hoca\GenericsIntro\bin\Debug\GenericsIntro.pdb
+G:\Derslerim\VB\CONSOL\Engin Hoca\GenericsIntro\obj\Debug\GenericsIntro.csproj.AssemblyReference.cache
+G:\Derslerim\VB\CONSOL\Engin Hoca\GenericsIntro\obj\Debug\GenericsIntro.csproj.CoreCompileInputs.cache
+G:\Derslerim\VB\CONSOL\Engin Hoca\GenericsIntro\obj\Debug\GenericsIntro.exe
+G:\Derslerim\VB\CONSOL\Engin Hoca\GenericsIntro\obj\Debug\GenericsIntro.pdb
