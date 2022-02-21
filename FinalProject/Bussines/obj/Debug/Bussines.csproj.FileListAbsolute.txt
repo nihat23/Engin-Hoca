@@ -1,0 +1,11 @@
+G:\Derslerim\VB\CONSOL\Engin Hoca\FinalProject\Bussines\bin\Debug\Bussines.dll
+G:\Derslerim\VB\CONSOL\Engin Hoca\FinalProject\Bussines\bin\Debug\Bussines.pdb
+G:\Derslerim\VB\CONSOL\Engin Hoca\FinalProject\Bussines\bin\Debug\DataAccess.dll
+G:\Derslerim\VB\CONSOL\Engin Hoca\FinalProject\Bussines\bin\Debug\Entities.dll
+G:\Derslerim\VB\CONSOL\Engin Hoca\FinalProject\Bussines\bin\Debug\DataAccess.pdb
+G:\Derslerim\VB\CONSOL\Engin Hoca\FinalProject\Bussines\bin\Debug\Entities.pdb
+G:\Derslerim\VB\CONSOL\Engin Hoca\FinalProject\Bussines\obj\Debug\Bussines.csproj.AssemblyReference.cache
+G:\Derslerim\VB\CONSOL\Engin Hoca\FinalProject\Bussines\obj\Debug\Bussines.csproj.CoreCompileInputs.cache
+G:\Derslerim\VB\CONSOL\Engin Hoca\FinalProject\Bussines\obj\Debug\Bussines.csproj.CopyComplete
+G:\Derslerim\VB\CONSOL\Engin Hoca\FinalProject\Bussines\obj\Debug\Bussines.dll
+G:\Derslerim\VB\CONSOL\Engin Hoca\FinalProject\Bussines\obj\Debug\Bussines.pdb

@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Abstract
 {
-   public interface IProductDal
+   public interface IProductDal: IEntityRepository<Product>
     {
         //interface ıcındekı default publıctir.. kendısı deıl..
-
+        /*
         List<Product> GetAll();//(1)
 
         void Add(Product product);
@@ -20,6 +20,7 @@ namespace DataAccess.Abstract
         void Delete(Product product);
 
         List<Product> GetAllByCategory(int categoryId);
-
+        (IEntityRepository ' e taşıdık..)
+        */
     }
 }

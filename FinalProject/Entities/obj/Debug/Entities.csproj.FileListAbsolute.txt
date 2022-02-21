@@ -1,0 +1,6 @@
+G:\Derslerim\VB\CONSOL\Engin Hoca\FinalProject\Entities\bin\Debug\Entities.dll
+G:\Derslerim\VB\CONSOL\Engin Hoca\FinalProject\Entities\bin\Debug\Entities.pdb
+G:\Derslerim\VB\CONSOL\Engin Hoca\FinalProject\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+G:\Derslerim\VB\CONSOL\Engin Hoca\FinalProject\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+G:\Derslerim\VB\CONSOL\Engin Hoca\FinalProject\Entities\obj\Debug\Entities.dll
+G:\Derslerim\VB\CONSOL\Engin Hoca\FinalProject\Entities\obj\Debug\Entities.pdb
